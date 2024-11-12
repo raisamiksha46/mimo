@@ -1,0 +1,22 @@
+.cafe {
+ background-color: green;
+}
+
+.border {
+border: 10px solid coral;
+background-color: pink;
+}
+
+img {
+ position: absolute;
+ z-index: -1;
+ border: 3px solid brown;
+ width: 90%;
+}
+
+.sale {
+ z-index: 4;
+ color: purple;
+ font-family: sans-serif;
+ padding-left: 20px;
+}
